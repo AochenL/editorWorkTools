@@ -9,8 +9,7 @@ while line:
     for ch in line:
         if ch == ' ' or ch ==',' or ch =='。' or ch =='，' or ch =='!':
             if phrase != '':               
-                file_split.write(phrase+'\n')
-                
+                file_split.write(phrase+'\n')               
             phrase = ''
         else:
             phrase += ch
