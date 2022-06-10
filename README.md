@@ -1,2 +1,2 @@
-# splitChinesePhrases
-This file aims to split Chinese phrases.
+# editorWorkTools
+Tools that I developed as an editor, since Word is not always useful, especially on Mac.
